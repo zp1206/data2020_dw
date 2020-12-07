@@ -1,0 +1,3 @@
+Exception thrown when sending a message with key='null' and payload='{"area":"beijing","uid":"401","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_52","typ...' to topic top_siartup:
+org.apache.kafka.common.errors.TimeoutException: Failed to update metadata after 60000 ms.
+{"area":"beijing","uid":"401","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_52","type":"startup","vs":"1.2.0","ts":1605537932411}
