@@ -37,7 +37,7 @@ public class LogUploader {
             out.close();
             int code = conn.getResponseCode();
             System.out.println(code);
-            System.out.println("plmm");
+            System.out.println("jsc");
         } catch (Exception e) {
             e.printStackTrace();
         }
